@@ -20,10 +20,12 @@ then you might want to just start over and do it better.  For example,
 the searching could be performed more efficiently using in-memory 
 data-structures
 instead of frequently accessing the databases storing the Nutch data on
-disk.  Even if you don't stop using the shell scripts, you might want to
-merge all of the constant values 
-defined across the shell scripts into a single
-file since currently you have to set them separately in each script.
+disk.  Even if you continue to use the currently 
+inefficient shell scripts, you might still want to make things more organized
+by
+merging all of the constant values 
+defined across the scripts into a single
+file so that you don't have to re-define them separately in each script.
 
 Even if the scripts here are somewhat disorganized 
 and inefficient, it shouldn't 
