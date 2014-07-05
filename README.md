@@ -15,7 +15,8 @@ in a disorganized way and using some inefficient methods.  This was done
 under the assumption that there was a good chance that 
 crawling web pages would not yield much Yoruba data (the language
 these scripts were used for).  If it turns out that you want to use the
-language searching methods from this project more extensively in the future,
+language searching methods from this project more extensively or at a larger scale
+ in the future,
 then you might want to just start over and do it better.  For example,
 the searching could be performed more efficiently using in-memory 
 data-structures
