@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script prepares data from LCTL_Yoruba data set to
+# to be used by a langid.py model
+
 ENGLISH_SOURCE=/cab1/wmcdowel/muri/Data/LCTL_Yoruba_v0.5/Parallel_Text/Train/Translations/From_English/English/ltf
 YORUBA_SOURCE=/cab1/wmcdowel/muri/Data/LCTL_Yoruba_v0.5/Parallel_Text/Train/Translations/From_English/Yoruba/ltf
 

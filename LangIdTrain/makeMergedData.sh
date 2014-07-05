@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script merges data from LCTL_Yoruba data sets with the
+# Naacl2010 langid.py data from Tim Baldwin.
+
 # IJCNLP2011 data is also available, but not currently included. 
 # There is acquis, debian, and wikiraw, but they are all in different
 # formats. And so it didn't seem like it was worth the time to
